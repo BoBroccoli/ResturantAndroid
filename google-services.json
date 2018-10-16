@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "492544649840",
+    "firebase_url": "https://eatinapp-fb559.firebaseio.com",
+    "project_id": "eatinapp-fb559",
+    "storage_bucket": "eatinapp-fb559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492544649840:android:497a29e4f9f3882c",
+        "android_client_info": {
+          "package_name": "com.example.bo.eatinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492544649840-3boq4vbhta4hm2mf0g8drvap9ujtusnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bo.eatinapp",
+            "certificate_hash": "30acc75e1df041c183f6e451d339d43eca36c3d4"
+          }
+        },
+        {
+          "client_id": "492544649840-bjqihr2i93iqlgu77e8rlea8nmo89v5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoZ8449nBKXKYKgRByJkipQ_wlheFuhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492544649840-bjqihr2i93iqlgu77e8rlea8nmo89v5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
